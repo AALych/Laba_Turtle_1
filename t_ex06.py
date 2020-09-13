@@ -1,6 +1,6 @@
 import turtle
 turtle.shape('triangle')
-print('Введите количество вершин звезды')
+print('Введите количество ног у паука')
 n = int(input())
 for i in range(0, n):
     turtle.forward(60)
