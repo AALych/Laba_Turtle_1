@@ -7,6 +7,7 @@ t.down()
 for i in range (4):
     t.forward(400)
     t.right(90)
+t.hideturtle()
 
 number_of_turtles = 20
 
